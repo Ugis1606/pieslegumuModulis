@@ -1,0 +1,79 @@
+{
+  "saves": [
+    {
+      "pieteikums": "11",
+      "buvnieks": "KESTO",
+      "nosaukumsTA": "",
+      "kva": "",
+      "trafTame": "22,00",
+      "trafMat": "",
+      "esosa": "",
+      "esosU": "",
+      "pieprasita": "21",
+      "piepU": "0,42",
+      "trafProj": "",
+      "trafPiepr": "",
+      "isCheckedTraf": 0,
+      "grupasPiet": [
+        {
+          "pieteikums": "33",
+          "esosa": "",
+          "esosU": "",
+          "pieprasita": "33",
+          "piepU": "",
+          "trafProj": "",
+          "trafPiepr": "",
+          "isCheckedTraf": 1
+        },
+        {
+          "pieteikums": "22",
+          "esosa": "",
+          "esosU": "",
+          "pieprasita": "22",
+          "piepU": "",
+          "trafProj": "",
+          "trafPiepr": "",
+          "isCheckedTraf": 1
+        },
+        {
+          "pieteikums": "55",
+          "esosa": "",
+          "esosU": "",
+          "pieprasita": "21",
+          "piepU": "0,42",
+          "trafProj": "",
+          "trafPiepr": "",
+          "isCheckedTraf": 0
+        },
+        {
+          "pieteikums": "11",
+          "esosa": "",
+          "esosU": "",
+          "pieprasita": "21",
+          "piepU": "0,42",
+          "trafProj": "",
+          "trafPiepr": "",
+          "isCheckedTraf": 0
+        }
+      ],
+      "id": 1
+    },
+    {
+      "pieteikums": "242",
+      "buvnieks": "VOLTS",
+      "nosaukumsTA": "24",
+      "kva": "250",
+      "trafTame": "242,00",
+      "trafMat": "422,00",
+      "esosa": "242",
+      "esosU": "",
+      "pieprasita": "4424",
+      "piepU": "0,42",
+      "trafProj": "361",
+      "trafPiepr": "24",
+      "isCheckedTraf": 1,
+      "grupasPiet": [],
+      "id": 2
+    }
+  ]
+}
